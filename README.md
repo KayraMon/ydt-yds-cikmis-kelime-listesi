@@ -9,7 +9,7 @@
 
 <br>
 
-[![PDF'İ İNDİR](https://img.shields.io/badge/⬇️_PDF'İ_İNDİR-Click_Here-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/KayraMon/ydt-yds-cikmis-kelime-listesi/releases/latest/download/ydt_kelime_listesi.pdf)
+[![PDF'İ İNDİR](https://img.shields.io/badge/⬇️_PDF'İ_İNDİR-Click_Here-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/KayraMon/ydt-yds-cikmis-kelime-listesi/releases/latest/download/1/YDT.ve.YDS.Cikmis.Kelime.Listesi.pdf)
 [![TELEGRAM'A KATIL](https://img.shields.io/badge/📢_TELEGRAM'A_KATIL-@englishafl-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/englishafl)
 
 </div>
