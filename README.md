@@ -10,7 +10,11 @@
 [![Join Telegram](https://img.shields.io/badge/Telegram%20Kanalı-@englishafl-blue)](https://t.me/englishafl)
 
 ---
-
+<p align="center">
+  <a href="https://github.com/KayraMon/ydt-yds-cikmis-kelime-listesi/releases/latest/download/ydt_kelime_listesi.pdf">
+    <img src="https://img.shields.io/badge/PDF%20İndir-1271%20Kelime-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF İndir" width="300">
+  </a>
+</p>
 ### Listenin Özellikleri
 
 - **Sınav Odaklı:** 2015-2026 YDS, YDT ve YÖKDİL sınavlarında çıkmış kelimeleri kapsar.
@@ -53,11 +57,6 @@ Evet. Yeni sınavlar yapıldıkça liste güncellenir. Güncellemeleri kaçırma
 **Telegram kanalında başka neler var?**
 Yeni kelime listeleri, sınav tüyoları, gramer ipuçları ve İngilizce öğrenenler için özel kaynaklar.
 
----
-
-### Yasal Uyarı
-
-Bu proje yalnızca eğitim amaçlıdır ve ticari kullanıma kapalıdır. Tüm ticari markalar ve telif hakkına tabi materyaller ilgili sahiplerinin (ÖSYM) mülkiyetindedir. Burada sunulan içerik, öğrencilerin sınav hazırlığına yardımcı olmayı amaçlar ve herhangi bir resmi sınav materyali üzerinde hak iddia etmez.
 
 ---
 
