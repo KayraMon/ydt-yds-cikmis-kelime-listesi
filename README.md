@@ -11,7 +11,7 @@
 
 ---
 
-### 🎯 Listenin ÖZellikleri
+### 🎯 Listenin Özellikleri
 
 - **📊 Sınav Odaklı:** 2015-2026 YDS, YDT ve YÖKDİL sınavlarından çıkmış kelimeleri kapsar.
 - **📖 Örnek Cümleli:** Kelimeleri, ÖSYM sınavlarında çıktıığına benzer şekilde bağlamı içinde gösterir.
