@@ -6,15 +6,17 @@
 
 > ÖSYM sınavlarında en sık çıkan 1271 kelime, Türkçe anlamları ve örnek cümleleriyle tek bir PDF'te.
 
-[![Download PDF](https://img.shields.io/badge/PDF%20İndir-Son%20Sürüm-brightgreen)](https://github.com/KayraMon/ydt-yds-cikmis-kelime-listesi/releases/latest/download/ydt_kelime_listesi.pdf)
-[![Join Telegram](https://img.shields.io/badge/Telegram%20Kanalı-@englishafl-blue)](https://t.me/englishafl)
-
----
 <p align="center">
   <a href="https://github.com/KayraMon/ydt-yds-cikmis-kelime-listesi/releases/latest/download/ydt_kelime_listesi.pdf">
-    <img src="https://img.shields.io/badge/PDF%20İndir-1271%20Kelime-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF'i İndir" width="300">
+    <img src="https://img.shields.io/badge/⬇️%20PDF'İ%20İNDİR%20⬇️-1271%20Kelime-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF İndir" width="220">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/englishafl">
+    <img src="https://img.shields.io/badge/📢%20TELEGRAM'A%20KATIL-@englishafl-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram'a Katıl" width="250">
   </a>
 </p>
+
+---
 
 ### Listenin Özellikleri
 
@@ -34,6 +36,35 @@ Listedeki her kelime **CEFR seviyesi**, **Türkçe anlamı** ve sınav bağlamı
 
 > ... ve 1268 kelime daha.
 
+---
+
+### Hızlı Başlangıç
+
+1.  **PDF'i İndir:** Yukarıdaki yeşil butona tıkla.
+2.  **İncele:** Bilmediğin kelimeleri işaretle.
+3.  **Bağlamda Öğren:** Örnek cümlelerle kelimenin kullanımını kavra.
+4.  **Topluluğa Katıl:** Yeni listeler ve ücretsiz kaynaklar için Telegram kanalına gel.
+
+### Ücretsiz Android Uygulaması
+
+Bu kelimeleri interaktif quizlerle pekiştirmek ister misin? **Kayra's Dictionary** uygulaması Google Play Store'da yayında. Listeyi uygulamaya aktar, dilediğin yerde çalış.
+
+### Sıkça Sorulan Sorular
+
+**Listeyi paylaşabilir miyim?**
+Evet, ücretsizdir. Arkadaşlarınla paylaşabilirsin. Ticari olarak satılması yasaktır.
+
+**Liste güncelleniyor mu?**
+Evet. Yeni sınavlar yapıldıkça liste güncellenir. Güncellemeleri kaçırmamak için Telegram kanalını takip et.
+
+**Telegram kanalında başka neler var?**
+Yeni kelime listeleri, sınav tüyoları, gramer ipuçları ve İngilizce öğrenenler için özel kaynaklar.
+
+---
+
+### Yasal Uyarı
+
+Bu proje yalnızca eğitim amaçlıdır ve ticari kullanıma kapalıdır. Tüm ticari markalar ve telif hakkına tabi materyaller ilgili sahiplerinin (ÖSYM) mülkiyetindedir. Burada sunulan içerik, öğrencilerin sınav hazırlığına yardımcı olmayı amaçlar ve herhangi bir resmi sınav materyali üzerinde hak iddia etmez.
 
 ---
 
