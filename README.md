@@ -22,7 +22,7 @@ Bu liste, yılların ÖSYM soruları taranarak hazırlanmıştır. Sadece kelime
 
 *   **🎯 Sınav Odaklı İçerik:** 2015-2026 yılları arasında yapılan YDS, YDT ve YÖKDİL sınavlarında çıkmış kelimeleri kapsar.
 *   **📝 Bağlam Temelli Öğrenim:** Her kelime, ÖSYM'nin sorduğu dil ve üsluba uygun **örnek cümleler** ile desteklenmiştir.
-*   **📱 Dijital Entegrasyon:** Listeyi **[Kayra's Dictionary](https://t.me/englishafl/75)** Android uygulamasına aktararak interaktif flashcard'larla çalışabilirsiniz.
+*   **📱 Kelime Kartları:** **[Kayra's Dictionary](https://t.me/englishafl/75)** Android uygulamasında kelime kartlarıyla çalışabilirsiniz
 *   **📊 CEFR Seviyeleri:** Kelimelerin zorluk dereceleri (B2, C1, C2) belirtilmiştir.
 
 ---
