@@ -12,9 +12,10 @@
 ---
 <p align="center">
   <a href="https://github.com/KayraMon/ydt-yds-cikmis-kelime-listesi/releases/latest/download/ydt_kelime_listesi.pdf">
-    <img src="https://img.shields.io/badge/PDF%20İndir-1271%20Kelime-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF İndir" width="300">
+    <img src="https://img.shields.io/badge/PDF%20İndir-1271%20Kelime-brightgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="PDF'i İndir" width="300">
   </a>
 </p>
+
 ### Listenin Özellikleri
 
 - **Sınav Odaklı:** 2015-2026 YDS, YDT ve YÖKDİL sınavlarında çıkmış kelimeleri kapsar.
@@ -32,30 +33,6 @@ Listedeki her kelime **CEFR seviyesi**, **Türkçe anlamı** ve sınav bağlamı
 | **interpret** | B2 | yorumlamak | Scientists use advanced algorithms to **interpret** the complex spectral data. |
 
 > ... ve 1268 kelime daha.
-
----
-
-### Hızlı Başlangıç
-
-1.  **PDF'i İndir:** Yukarıdaki yeşil butona tıkla.
-2.  **İncele:** Bilmediğin kelimeleri işaretle.
-3.  **Bağlamda Öğren:** Örnek cümlelerle kelimenin kullanımını kavra.
-4.  **Topluluğa Katıl:** Yeni listeler ve ücretsiz kaynaklar için Telegram kanalına gel: [t.me/englishafl](https://t.me/englishafl)
-
-### Ücretsiz Android Uygulaması
-
-Bu kelimeleri interaktif quizlerle pekiştirmek ister misin? **Kayra's Dictionary** uygulaması Google Play Store'da yayında. Listeyi uygulamaya aktar, dilediğin yerde çalış.
-
-### Sıkça Sorulan Sorular
-
-**Listeyi paylaşabilir miyim?**
-Evet, ücretsizdir. Arkadaşlarınla paylaşabilirsin. Ticari olarak satılması yasaktır.
-
-**Liste güncelleniyor mu?**
-Evet. Yeni sınavlar yapıldıkça liste güncellenir. Güncellemeleri kaçırmamak için Telegram kanalını takip et: [t.me/englishafl](https://t.me/englishafl)
-
-**Telegram kanalında başka neler var?**
-Yeni kelime listeleri, sınav tüyoları, gramer ipuçları ve İngilizce öğrenenler için özel kaynaklar.
 
 
 ---
